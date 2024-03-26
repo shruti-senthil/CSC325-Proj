@@ -16,4 +16,4 @@ jobs:
           apt-get update && apt-get install -y rsync
 
       - name: deploy
-        uses: shruti-senthil/github-pages-deploy-action@v4
+        uses: shruti-senthil/github.io/CSC325-Proj-deploy-action@v4
