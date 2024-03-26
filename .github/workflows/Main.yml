@@ -25,7 +25,7 @@ jobs:
         run: flutter build web
 
       - name: deploy
-        uses: shruti-senthil/CSC325-Proj
+      - uses: shruti-senthil/CSC325-Proj
         with:
           github_token: ${{secrets.GITHUB_TOKEN}}
           publish_dir: ./app/build/web
