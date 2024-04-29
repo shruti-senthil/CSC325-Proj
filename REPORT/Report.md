@@ -119,6 +119,7 @@ When the button is clicked, the number of times the button has been clicked goes
 
 ## Conclusion
 **Challenges Encountered:**
+
 Deployment Issues: We faced difficulties deploying our Flutter web application, possibly due to misconfigurations, dependencies, or compatibility issues. These challenges highlighted the importance of thorough testing and validation before deployment.
 
 Environment Setup: Setting up the CI/CD environment and ensuring compatibility with Flutter web applications was very challenging, especially because we were new to CI/CD and Flutter development.
