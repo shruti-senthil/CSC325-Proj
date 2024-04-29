@@ -87,7 +87,7 @@ The configuration used in this project describes a CI/CD pipeline named "Main Pi
 ## CI/CD Tools
 **GitHub Actions:**
 1. Configuration:
-     - Workflows are defined in YAML files (workflow.yml) within the .github/workflows directory of the repository.
+     - Workflows are defined in YAML files (Main.yml) within the .github/workflows directory of the repository.
     - Actions are triggered by events such as pushes, pull requests, or scheduled tasks.
     - Workflows consist of jobs, which run sequentially or concurrently, and each job contains steps to execute commands.
 2. Roles
